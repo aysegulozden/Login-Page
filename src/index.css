@@ -52,7 +52,7 @@
   border: none;
   outline: none;
   background: transparent;
-  color: white;
+   color: #151717 !important;
   width: 100%;
 }
 .input:focus {
